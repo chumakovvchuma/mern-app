@@ -6,12 +6,12 @@
 
 .footer p{
   margin: 0 0 8px 0;
-  font-size: 14px;
+  font-size: 24px;
   color: #FFF;
 }
 
 .footer a{
-  color: #FFF;
+  color: green;
   text-decoration: none;
   font-weight: 700;
 }
